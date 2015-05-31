@@ -37,38 +37,59 @@ def alterMovies(n, movies):
 			newList.append(m)
 	return newList
 
-def getRottenTomatoes(movies):
+#set critic scores and user scores in movie type from search query to rottentomatoes -> alters movie list no return
+def setRottenTomatoes(movies):
 	#search movie in rotten tomatoes and get url
-	urlstoget = []
 	for m in movies:
 		url = "http://www.rottentomatoes.com/search/?search=" + m.getName().replace(' ', '+')
 		stream = urllib2.urlopen(url)
 		print stream.geturl()
 		#check for redirect
 		if(stream.geturl() != url):
-			urlstoget.append(stream.geturl())
+			m.setUrl(stream.geturl())
 			continue
 		content = stream.read()
 		tree = html.fromstring(content)	
 		#TODO: check the url if it is the correct year!! quite a few times this fucks up
 		searchURL = tree.xpath('//ul[@id="movie_results_ul"]/li[1]/div/div/a/@href')[0]
-		urlstoget.append("http://www.rottentomatoes.com" + searchURL)
+		m.setUrl("http://www.rottentomatoes.com" + searchURL)
 	
 	scoreList = []
-	for url in urlstoget:
-		content = urllib2.urlopen(url).read()
+	for m in movies:
+		content = urllib2.urlopen(m.getUrl()).read()
 		tree = html.fromstring(content)
+		if m.getUrl().find(".com/m/") == -1: 
+			movies.remove(m) #check if bad url - reject if it is
+			continue
 		critic_score = tree.xpath('//div[@class="critic-score meter"]/a/span/span/text()')
 		audience_score = tree.xpath('//div[@class="audience-score meter"]/a/div/div/div/span/text()')
-		m = Movie(int(critic_score), int(audience_score))
-		scoreList.append(m)
+		if(len(critic_score) < 1 or len(audience_score) < 1):
+			movies.remove(m) #check if bad url - reject if it is
+			continue
+		m.setCriticScore(int(critic_score[0]))
+		m.setUserScore(int(audience_score[0]))
 	
-	return scoreList
-		
+
+#from paired means turn into set of differences then into mean of difference for each set
+def getMeans(scores):
+		means = []
+		for set in scores:
+			totaldiff = 0
+			for m in set:
+				totaldiff += abs(m.getCriticScore() - m.getUserScore())
+			avgdiff = totaldiff / len(set)
+			means.append(avgdiff)
+		return means
+
+#get list of movies		
 movies_drama = alterMovies(YEAR_MAX,  getMovies(NUM_MOVIES, "drama"))
 movies_action = alterMovies(YEAR_MAX,  getMovies(NUM_MOVIES, "action"))
 #randomly select 50 from movie list
 drama_sample = random.sample(movies_drama, 5)
 action_sample = random.sample(movies_action, 5)
-scores_action = getRottenTomatoes(action_sample)
-scores_drama = getRottenTomatoes(drama_sample)
+#get scores from rottentomatoes
+setRottenTomatoes(action_sample)
+setRottenTomatoes(drama_sample)
+#get means
+means = getMeans([action_sample, drama_sample])
+print means
