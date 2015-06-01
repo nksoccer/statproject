@@ -5,13 +5,17 @@ import threading
 from movie import Movie 
 from lxml import html
 
-NUM_MOVIES = 1500
+NUM_MOVIES = 10000
 YEAR_MAX = 5
 pool = ThreadPool(processes=1)
 		
 #get list of movies in form from url at imdb site
-def getListFromIMDB(URL):
-	content = urllib2.urlopen(URL).read()
+def getListFromIMDB(URL, output):
+	try:
+		content = urllib2.urlopen(URL).read()
+	except Exception: return
+	else:
+		pass
 	tree = html.fromstring(content)	
 	names = tree.xpath('//td[@class="title"]/a/text()')
 	dates = tree.xpath('//td[@class="title"]/span[@class="year_type"]/text()')
@@ -19,25 +23,31 @@ def getListFromIMDB(URL):
 	for num in range(0, len(names)):
 		m = Movie(names[num], int((dates[num])[1:5]))
 		movielist.append(m)
-	return movielist
+	print URL[len(URL) - 5:]
+	output += movielist
 	
 #get list of movies of size movieListLen from IMDB
 def getMovies(movieListLen, type):
+	threads = []
 	results = []
 	for num in range(0, movieListLen/50):
 		root_url = "http://www.imdb.com/search/title?at=0&genres=%s&sort=num_votes" % type
 		if num == 0:
-			async_result = pool.apply_async(getListFromIMDB, [root_url])
-			results.append(async_result)
+			getListFromIMDB(root_url, results)
+			#thread = threading.Thread(target = getListFromIMDB, args=(root_url, results))
+			#thread.start()
+			#threads.append(thread)
+
 		else:
-			async_result = pool.apply_async(getListFromIMDB, [root_url+"&start=%i" % (num*50 + 1)] )
-			results.append(async_result)
+			#thread = threading.Thread(target = getListFromIMDB, args=(root_url+"&start=%i" % (num*50 + 1),results))
+			getListFromIMDB(root_url+"&start=%i" % (num*50 + 1),results)
+			#thread.start()
+			#threads.append(thread)
+
+	#for t in threads:
+		#t.join()
 		
-	movies = []
-	for r in results:
-		movies += r.get()
-		
-	return movies
+	return results
 
 #remove movies that are more than n years old
 def alterMovies(n, movies):
@@ -148,8 +158,8 @@ def printData(scores, means, means2):
 movies_drama = alterMovies(YEAR_MAX,  getMovies(NUM_MOVIES, "drama"))
 movies_action = alterMovies(YEAR_MAX,  getMovies(NUM_MOVIES, "action"))
 #randomly select 50 from movie list
-drama_sample = random.sample(movies_drama, 100)
-action_sample = random.sample(movies_action, 100)
+drama_sample = random.sample(movies_drama, 500)
+action_sample = random.sample(movies_action, 500)
 #get scores from rottentomatoes
 setRottenTomatoes(action_sample)
 setRottenTomatoes(drama_sample)
