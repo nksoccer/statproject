@@ -32,4 +32,8 @@ class Movie:
 	def getUserScore(self):
 		return self.user
 		
-	
+	def toStr(self):
+		str1 = "Name: " + self.name + ", " + "Date: " + str(self.date) + "\r\n"
+		str2 = "Critic Score: " + str(self.critic) + ", " + "User Score: " + str(self.user) + "\r\n"
+		str3 = "Source URL: " + self.url + "\r\n"
+		return str1 + str2 + str3

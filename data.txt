@@ -1,0 +1,42 @@
+Action Movies
+Name: 21 Jump Street, Date: 2012
+Critic Score: 85, User Score: 82
+Source URL: http://www.rottentomatoes.com/m/21-jump-street-2011/
+
+Name: Man of Steel, Date: 2013
+Critic Score: 56, User Score: 76
+Source URL: http://www.rottentomatoes.com/m/superman_man_of_steel/
+
+Name: Sherlock Holmes: A Game of Shadows, Date: 2011
+Critic Score: 59, User Score: 77
+Source URL: http://www.rottentomatoes.com/m/sherlock_holmes_a_game_of_shadows/
+
+Name: Elysium, Date: 2013
+Critic Score: 68, User Score: 58
+Source URL: http://www.rottentomatoes.com/m/elysium_2013/
+
+Name: X-Men: First Class, Date: 2011
+Critic Score: 87, User Score: 87
+Source URL: http://www.rottentomatoes.com/m/x_men_first_class/
+
+Drama Movies
+Name: 12 Years a Slave, Date: 2013
+Critic Score: 96, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/12_years_a_slave/
+
+Name: The Great Gatsby, Date: 2013
+Critic Score: 48, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/the_great_gatsby_2013/
+
+Name: The Grand Budapest Hotel, Date: 2014
+Critic Score: 92, User Score: 86
+Source URL: http://www.rottentomatoes.com/m/the_grand_budapest_hotel/
+
+Name: Rise of the Planet of the Apes, Date: 2011
+Critic Score: 82, User Score: 77
+Source URL: http://www.rottentomatoes.com/m/rise_of_the_planet_of_the_apes/
+
+Name: The Perks of Being a Wallflower, Date: 2012
+Critic Score: 85, User Score: 89
+Source URL: http://www.rottentomatoes.com/m/the_perks_of_being_a_wallflower/
+
