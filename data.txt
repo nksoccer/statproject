@@ -1,42 +1,800 @@
-Action Movies
+Action Movies - n = 100
+Name: Elysium, Date: 2013
+Critic Score: 68, User Score: 58
+Source URL: http://www.rottentomatoes.com/m/elysium_2013/
+
+Name: Undercover, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/undercover_1995/
+
+Name: Season of the Witch, Date: 2011
+Critic Score: 9, User Score: 31
+Source URL: http://www.rottentomatoes.com/m/10010694-season_of_the_witch/
+
+Name: Scorpion, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/scorpion/
+
+Name: Call of Duty: Modern Warfare 3, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: A Most Violent Year, Date: 2014
+Critic Score: 90, User Score: 70
+Source URL: http://www.rottentomatoes.com/m/a_most_violent_year/
+
+Name: Orphan Black, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Chennai Express, Date: 2013
+Critic Score: 67, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/chennai_express_2013/
+
+Name: Killing Season, Date: 2013
+Critic Score: 11, User Score: 29
+Source URL: http://www.rottentomatoes.com/m/killing_season/
+
+Name: Chappie, Date: 2015
+Critic Score: 30, User Score: 62
+Source URL: http://www.rottentomatoes.com/m/chappie/
+
+Name: The Green Hornet, Date: 2011
+Critic Score: 43, User Score: 43
+Source URL: http://www.rottentomatoes.com/m/green_hornet/
+
+Name: Red Tails, Date: 2012
+Critic Score: 40, User Score: 58
+Source URL: http://www.rottentomatoes.com/m/red-tails/
+
+Name: The Darkest Hour, Date: 2011
+Critic Score: 12, User Score: 25
+Source URL: http://www.rottentomatoes.com/m/the_darkest_hour/
+
+Name: Graceland, Date: 2013
+Critic Score: 84, User Score: 71
+Source URL: http://www.rottentomatoes.com/m/graceland_2012/
+
+Name: Dead Man Down, Date: 2013
+Critic Score: 38, User Score: 47
+Source URL: http://www.rottentomatoes.com/m/dead_man_down_2013/
+
+Name: The Colony, Date: 2013
+Critic Score: 16, User Score: 22
+Source URL: http://www.rottentomatoes.com/m/the_colony_2013/
+
+Name: Continuum, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/continuum/
+
+Name: Dracula Untold, Date: 2014
+Critic Score: 23, User Score: 59
+Source URL: http://www.rottentomatoes.com/m/dracula_untold/
+
+Name: Snow White and the Huntsman, Date: 2012
+Critic Score: 48, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/snow_white_and_the_huntsman/
+
+Name: Setup, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/setup_2011/
+
+Name: Automata, Date: 2014
+Critic Score: 29, User Score: 31
+Source URL: http://www.rottentomatoes.com/m/automata/
+
+Name: Big Mommas: Like Father, Like Son, Date: 2011
+Critic Score: 5, User Score: 58
+Source URL: http://www.rottentomatoes.com/m/big_mommas_like_father_like_son_2011/
+
+Name: The Flash, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/ricki_and_the_flash/
+
+Name: The Guest, Date: 2014
+Critic Score: 90, User Score: 68
+Source URL: http://www.rottentomatoes.com/m/the_guest_2014/
+
+Name: The Raid: Redemption, Date: 2011
+Critic Score: 85, User Score: 87
+Source URL: http://www.rottentomatoes.com/m/the_raid_redemption/
+
+Name: One for the Money, Date: 2012
+Critic Score: 2, User Score: 43
+Source URL: http://www.rottentomatoes.com/m/one_for_the_money/
+
+Name: 24: Live Another Day, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Seeking Justice, Date: 2011
+Critic Score: 27, User Score: 39
+Source URL: http://www.rottentomatoes.com/m/justice_2011/
+
+Name: Escape Plan, Date: 2013
+Critic Score: 49, User Score: 55
+Source URL: http://www.rottentomatoes.com/m/escape_plan/
+
+Name: Ra.One, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Kill the Irishman, Date: 2011
+Critic Score: 63, User Score: 68
+Source URL: http://www.rottentomatoes.com/m/the-irishman/
+
+Name: The Expendables 3, Date: 2014
+Critic Score: 33, User Score: 49
+Source URL: http://www.rottentomatoes.com/m/the_expendables_3/
+
+Name: The Last of Us, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/the_last_of_us/
+
+Name: Dragon Ball Z: Battle of Gods, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/dragon_ball_z_battle_of_gods/
+
+Name: Taken 2, Date: 2012
+Critic Score: 21, User Score: 53
+Source URL: http://www.rottentomatoes.com/m/taken_2_2012/
+
+Name: 1, Date: 2014
+Critic Score: 61, User Score: 69
+Source URL: http://www.rottentomatoes.com/m/10_things_i_hate_about_you/
+
+Name: I Am Number Four, Date: 2011
+Critic Score: 33, User Score: 58
+Source URL: http://www.rottentomatoes.com/m/i_am_number_four/
+
+Name: Captain America: The First Avenger, Date: 2011
+Critic Score: 79, User Score: 74
+Source URL: http://www.rottentomatoes.com/m/captain-america/
+
+Name: Transformers: Age of Extinction, Date: 2014
+Critic Score: 18, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/transformers_age_of_extinction/
+
+Name: The Purge: Anarchy, Date: 2014
+Critic Score: 57, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/the_purge_anarchy_2014/
+
 Name: 21 Jump Street, Date: 2012
 Critic Score: 85, User Score: 82
 Source URL: http://www.rottentomatoes.com/m/21-jump-street-2011/
 
-Name: Man of Steel, Date: 2013
-Critic Score: 56, User Score: 76
-Source URL: http://www.rottentomatoes.com/m/superman_man_of_steel/
+Name: Person of Interest, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/person_of_interest/
 
-Name: Sherlock Holmes: A Game of Shadows, Date: 2011
-Critic Score: 59, User Score: 77
-Source URL: http://www.rottentomatoes.com/m/sherlock_holmes_a_game_of_shadows/
+Name: Spring Breakers, Date: 2012
+Critic Score: 66, User Score: 38
+Source URL: http://www.rottentomatoes.com/m/spring_breakers_2013/
 
-Name: Elysium, Date: 2013
-Critic Score: 68, User Score: 58
-Source URL: http://www.rottentomatoes.com/m/elysium_2013/
+Name: Agent Carter, Date: 2015
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Mortdecai, Date: 2015
+Critic Score: 12, User Score: 32
+Source URL: http://www.rottentomatoes.com/m/mortdecai/
+
+Name: Universal Soldier: Day of Reckoning, Date: 2012
+Critic Score: 51, User Score: 35
+Source URL: http://www.rottentomatoes.com/m/universal_soldier_day_of_reckoning/
+
+Name: Noah, Date: 2014
+Critic Score: 77, User Score: 42
+Source URL: http://www.rottentomatoes.com/m/noah_2014/
+
+Name: Jack Ryan: Shadow Recruit, Date: 2014
+Critic Score: 56, User Score: 53
+Source URL: http://www.rottentomatoes.com/m/jack_ryan_shadow_recruit/
+
+Name: John Wick, Date: 2014
+Critic Score: 85, User Score: 80
+Source URL: http://www.rottentomatoes.com/m/john_wick/
+
+Name: Longmire, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: X-Men: Days of Future Past, Date: 2014
+Critic Score: 91, User Score: 92
+Source URL: http://www.rottentomatoes.com/m/x_men_days_of_future_past/
+
+Name: Bad Ass, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/bad_asses/
+
+Name: Hobo with a Shotgun, Date: 2011
+Critic Score: 65, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/hobo_with_a_shotgun/
+
+Name: Gangster Squad, Date: 2013
+Critic Score: 31, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/gangster_squad_2012/
+
+Name: The Sweeney, Date: 2012
+Critic Score: 86, User Score: 81
+Source URL: http://www.rottentomatoes.com/m/sweeney_todd_the_demon_barber_of_fleet_street_2007/
+
+Name: The Last Stand, Date: 2013
+Critic Score: 60, User Score: 54
+Source URL: http://www.rottentomatoes.com/m/last_stand_2013/
+
+Name: Hanna, Date: 2011
+Critic Score: 71, User Score: 66
+Source URL: http://www.rottentomatoes.com/m/hanna/
+
+Name: Stalingrad, Date: 2013
+Critic Score: 48, User Score: 41
+Source URL: http://www.rottentomatoes.com/m/stalingrad_2014/
+
+Name: Batman: The Dark Knight Returns, Part 2, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/batman_the_dark_knight_returns_part_two/
+
+Name: Johnny English Reborn, Date: 2011
+Critic Score: 39, User Score: 44
+Source URL: http://www.rottentomatoes.com/m/johnny_english_reborn/
+
+Name: Revolution, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/the_black_panthers_vanguard_of_the_revolution_2015/
+
+Name: Don 2, Date: 2011
+Critic Score: 78, User Score: 72
+Source URL: http://www.rottentomatoes.com/m/don_2/
+
+Name: Act of Valor, Date: 2012
+Critic Score: 25, User Score: 72
+Source URL: http://www.rottentomatoes.com/m/act_of_valor/
+
+Name: Drive Angry, Date: 2011
+Critic Score: 45, User Score: 37
+Source URL: http://www.rottentomatoes.com/m/drive-angry/
+
+Name: Attack on Titan, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: The Dark Knight Rises, Date: 2012
+Critic Score: 87, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/the_dark_knight_rises/
+
+Name: Dawn of the Planet of the Apes, Date: 2014
+Critic Score: 90, User Score: 89
+Source URL: http://www.rottentomatoes.com/m/dawn_of_the_planet_of_the_apes/
+
+Name: The Heat, Date: 2013
+Critic Score: 65, User Score: 72
+Source URL: http://www.rottentomatoes.com/m/the_heat/
+
+Name: Cowboys & Aliens, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/cowboys_vs_dinosaurs/
+
+Name: Daredevil, Date: 2015
+Critic Score: 45, User Score: 36
+Source URL: http://www.rottentomatoes.com/m/daredevil/
+
+Name: Maleficent, Date: 2014
+Critic Score: 49, User Score: 71
+Source URL: http://www.rottentomatoes.com/m/maleficent_2014/
+
+Name: 22 Jump Street, Date: 2014
+Critic Score: 85, User Score: 78
+Source URL: http://www.rottentomatoes.com/m/22_jump_street/
+
+Name: Gunday, Date: 2014
+Critic Score: 100, User Score: 8
+Source URL: http://www.rottentomatoes.com/m/gunday/
+
+Name: After Earth, Date: 2013
+Critic Score: 11, User Score: 37
+Source URL: http://www.rottentomatoes.com/m/after_earth/
+
+Name: Ek Tha Tiger, Date: 2012
+Critic Score: 71, User Score: 49
+Source URL: http://www.rottentomatoes.com/m/ek_tha_tiger/
+
+Name: Assassination Games, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/assassination_games/
+
+Name: Redirected, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/redirected/
+
+Name: Mad Max: Fury Road, Date: 2015
+Critic Score: 98, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/mad_max_fury_road/
+
+Name: Man of Tai Chi, Date: 2013
+Critic Score: 70, User Score: 50
+Source URL: http://www.rottentomatoes.com/m/man_of_tai_chi/
+
+Name: Non-Stop, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/nonstop_2010/
+
+Name: Halo 4: Forward Unto Dawn, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/halo_4_forward_unto_dawn_2012/
+
+Name: Into the Storm, Date: 2014
+Critic Score: 22, User Score: 43
+Source URL: http://www.rottentomatoes.com/m/into_the_storm_2014/
+
+Name: Spartacus: Gods of the Arena, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Bullet to the Head, Date: 2012
+Critic Score: 46, User Score: 40
+Source URL: http://www.rottentomatoes.com/m/bullet_to_the_head/
+
+Name: In Time, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/back_in_time_2014/
+
+Name: Star Trek Into Darkness, Date: 2013
+Critic Score: 87, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/star_trek_into_darkness/
+
+Name: Justice League: The Flashpoint Paradox, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/dcu_justice_league_the_flashpoint_paradox/
+
+Name: The Lone Ranger, Date: 2013
+Critic Score: 31, User Score: 51
+Source URL: http://www.rottentomatoes.com/m/the_lone_ranger/
+
+Name: 3 Days to Kill, Date: 2014
+Critic Score: 28, User Score: 44
+Source URL: http://www.rottentomatoes.com/m/3_days_to_kill/
+
+Name: Battle Los Angeles, Date: 2011
+Critic Score: 35, User Score: 48
+Source URL: http://www.rottentomatoes.com/m/battle-los-angeles/
+
+Name: Big Hero 6, Date: 2014
+Critic Score: 89, User Score: 91
+Source URL: http://www.rottentomatoes.com/m/big_hero_6/
+
+Name: The Adventures of Tintin, Date: 2011
+Critic Score: 75, User Score: 74
+Source URL: http://www.rottentomatoes.com/m/the_adventures_of_tintin/
+
+Name: Battlestar Galactica: Blood & Chrome, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/battlestar_galactica_blood_and_chrome_unrated_2012/
+
+Name: Wild Card, Date: 2015
+Critic Score: 27, User Score: 28
+Source URL: http://www.rottentomatoes.com/m/heat_2013/
+
+Name: Unknown, Date: 2011
+Critic Score: 38, User Score: 54
+Source URL: http://www.rottentomatoes.com/m/unknown/
+
+Name: Real Steel, Date: 2011
+Critic Score: 60, User Score: 73
+Source URL: http://www.rottentomatoes.com/m/real_steel/
 
 Name: X-Men: First Class, Date: 2011
 Critic Score: 87, User Score: 87
 Source URL: http://www.rottentomatoes.com/m/x_men_first_class/
 
-Drama Movies
-Name: 12 Years a Slave, Date: 2013
-Critic Score: 96, User Score: 90
-Source URL: http://www.rottentomatoes.com/m/12_years_a_slave/
+Name: Dead Snow 2: Red vs. Dead, Date: 2014
+Critic Score: 85, User Score: 70
+Source URL: http://www.rottentomatoes.com/m/dead_snow_2_red_vs_dead/
 
-Name: The Great Gatsby, Date: 2013
-Critic Score: 48, User Score: 67
-Source URL: http://www.rottentomatoes.com/m/the_great_gatsby_2013/
+Name: Sucker Punch, Date: 2011
+Critic Score: 23, User Score: 47
+Source URL: http://www.rottentomatoes.com/m/sucker-punch-2010/
+
+Name: The Bourne Legacy, Date: 2012
+Critic Score: 55, User Score: 59
+Source URL: http://www.rottentomatoes.com/m/the_bourne_legacy/
+
+Drama Movies - n = 100
+Name: The First Time, Date: 2012
+Critic Score: 47, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/the_first_time_2012/
+
+Name: The Twilight Saga: Breaking Dawn - Part 1, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/the_twilight_saga_breaking_dawn_part_1/
+
+Name: The Wolf of Wall Street, Date: 2013
+Critic Score: 77, User Score: 82
+Source URL: http://www.rottentomatoes.com/m/the_wolf_of_wall_street_2013/
+
+Name: End of Watch, Date: 2012
+Critic Score: 85, User Score: 86
+Source URL: http://www.rottentomatoes.com/m/end_of_watch/
+
+Name: Enough Said, Date: 2013
+Critic Score: 96, User Score: 75
+Source URL: http://www.rottentomatoes.com/m/enough_said_2013/
+
+Name: Exodus: Gods and Kings, Date: 2014
+Critic Score: 27, User Score: 37
+Source URL: http://www.rottentomatoes.com/m/exodus_gods_and_kings/
+
+Name: Contagion, Date: 2011
+Critic Score: 84, User Score: 62
+Source URL: http://www.rottentomatoes.com/m/contagion_2011/
+
+Name: Robot & Frank, Date: 2012
+Critic Score: 58, User Score: 76
+Source URL: http://www.rottentomatoes.com/m/robot_overlords/
+
+Name: Seeking a Friend for the End of the World, Date: 2012
+Critic Score: 55, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/seeking_a_friend_for_the_end_of_the_world/
+
+Name: Ruby Sparks, Date: 2012
+Critic Score: 79, User Score: 75
+Source URL: http://www.rottentomatoes.com/m/ruby_sparks/
+
+Name: The Theory of Everything, Date: 2014
+Critic Score: 79, User Score: 84
+Source URL: http://www.rottentomatoes.com/m/the_theory_of_everything_2014/
+
+Name: Penny Dreadful, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/penny_dreadful/
+
+Name: The Hundred-Foot Journey, Date: 2014
+Critic Score: 68, User Score: 81
+Source URL: http://www.rottentomatoes.com/m/the_hundred_foot_journey/
+
+Name: The Bling Ring, Date: 2013
+Critic Score: 60, User Score: 33
+Source URL: http://www.rottentomatoes.com/m/the_bling_ring_2013/
+
+Name: Take Shelter, Date: 2011
+Critic Score: 91, User Score: 81
+Source URL: http://www.rottentomatoes.com/m/take_shelter/
+
+Name: Horns, Date: 2013
+Critic Score: 41, User Score: 50
+Source URL: http://www.rottentomatoes.com/m/horns/
+
+Name: The Judge, Date: 2014
+Critic Score: 47, User Score: 73
+Source URL: http://www.rottentomatoes.com/m/the_judge_2014/
+
+Name: Bates Motel, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/bates-motel/
+
+Name: Out of the Furnace, Date: 2013
+Critic Score: 53, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/out_of_the_furnace/
+
+Name: Bernie, Date: 2011
+Critic Score: 90, User Score: 72
+Source URL: http://www.rottentomatoes.com/m/bernie_2011/
+
+Name: The Secret Life of Walter Mitty, Date: 2013
+Critic Score: 50, User Score: 70
+Source URL: http://www.rottentomatoes.com/m/the_secret_life_of_walter_mitty_2013/
+
+Name: Drinking Buddies, Date: 2013
+Critic Score: 83, User Score: 48
+Source URL: http://www.rottentomatoes.com/m/drinking_buddies_2013/
+
+Name: Magic Mike, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/magic_mike_xxl/
+
+Name: Leyla and Mecnun, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: The Great Beauty, Date: 2013
+Critic Score: 91, User Score: 79
+Source URL: http://www.rottentomatoes.com/m/the_great_beauty/
+
+Name: Tinker Tailor Soldier Spy, Date: 2011
+Critic Score: 83, User Score: 65
+Source URL: http://www.rottentomatoes.com/m/tinker_tailor_soldier_spy/
+
+Name: Salmon Fishing in the Yemen, Date: 2011
+Critic Score: 67, User Score: 64
+Source URL: http://www.rottentomatoes.com/m/salmon_fishing_in_the_yemen/
+
+Name: Lone Survivor, Date: 2013
+Critic Score: 75, User Score: 87
+Source URL: http://www.rottentomatoes.com/m/lone_survivor/
+
+Name: Fury, Date: 2014
+Critic Score: 98, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/mad_max_fury_road/
+
+Name: The Killing, Date: 2011
+Critic Score: 97, User Score: 92
+Source URL: http://www.rottentomatoes.com/m/killing/
+
+Name: The Giver, Date: 2014
+Critic Score: 36, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/the_giver/
+
+Name: Johnny English Reborn, Date: 2011
+Critic Score: 39, User Score: 44
+Source URL: http://www.rottentomatoes.com/m/johnny_english_reborn/
+
+Name: The Drop, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/the_drop_box_presented_by_focus_on_the_family/
+
+Name: Colombiana, Date: 2011
+Critic Score: 27, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/colombiana/
+
+Name: Suits, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/suits_on_the_loose/
+
+Name: Selma, Date: 2014
+Critic Score: 99, User Score: 86
+Source URL: http://www.rottentomatoes.com/m/selma/
+
+Name: Dawn of the Planet of the Apes, Date: 2014
+Critic Score: 90, User Score: 89
+Source URL: http://www.rottentomatoes.com/m/dawn_of_the_planet_of_the_apes/
+
+Name: Nebraska, Date: 2013
+Critic Score: 91, User Score: 83
+Source URL: http://www.rottentomatoes.com/m/nebraska/
+
+Name: Get the Gringo, Date: 2012
+Critic Score: 81, User Score: 68
+Source URL: http://www.rottentomatoes.com/m/get_the_gringo/
+
+Name: Before Midnight, Date: 2013
+Critic Score: 98, User Score: 82
+Source URL: http://www.rottentomatoes.com/m/before_midnight_2013/
+
+Name: The Secret Circle, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: The Babadook, Date: 2014
+Critic Score: 98, User Score: 74
+Source URL: http://www.rottentomatoes.com/m/the_babadook/
+
+Name: The Best Exotic Marigold Hotel, Date: 2011
+Critic Score: 62, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/the_second_best_exotic_marigold_hotel/
+
+Name: Begin Again, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/begin_again/
+
+Name: Argo, Date: 2012
+Critic Score: 96, User Score: 90
+Source URL: http://www.rottentomatoes.com/m/argo_2012/
+
+Name: Only Lovers Left Alive, Date: 2013
+Critic Score: 86, User Score: 74
+Source URL: http://www.rottentomatoes.com/m/only_lovers_left_alive/
+
+Name: The Eagle, Date: 2011
+Critic Score: 39, User Score: 41
+Source URL: http://www.rottentomatoes.com/m/the-eagle-of-the-ninth/
 
 Name: The Grand Budapest Hotel, Date: 2014
 Critic Score: 92, User Score: 86
 Source URL: http://www.rottentomatoes.com/m/the_grand_budapest_hotel/
 
-Name: Rise of the Planet of the Apes, Date: 2011
-Critic Score: 82, User Score: 77
-Source URL: http://www.rottentomatoes.com/m/rise_of_the_planet_of_the_apes/
+Name: Detachment, Date: 2011
+Critic Score: 57, User Score: 74
+Source URL: http://www.rottentomatoes.com/m/detachment/
 
-Name: The Perks of Being a Wallflower, Date: 2012
-Critic Score: 85, User Score: 89
-Source URL: http://www.rottentomatoes.com/m/the_perks_of_being_a_wallflower/
+Name: Elementary, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/elementary_my_dear_watson_the_man_behind_sherlock_holmes/
 
+Name: Shame, Date: 2011
+Critic Score: 79, User Score: 75
+Source URL: http://www.rottentomatoes.com/m/shame_2011/
+
+Name: LOL, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/lolas_love_shack/
+
+Name: Safe Haven, Date: 2013
+Critic Score: 12, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/safe_haven/
+
+Name: Focus, Date: 2015
+Critic Score: 56, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/focus_2014/
+
+Name: The Grey, Date: 2011
+Critic Score: 79, User Score: 61
+Source URL: http://www.rottentomatoes.com/m/the_grey_2012/
+
+Name: Nymphomaniac: Vol. II, Date: 2013
+Critic Score: 59, User Score: 57
+Source URL: http://www.rottentomatoes.com/m/nymphomaniac_volume_ii/
+
+Name: Stuck in Love, Date: 2012
+Critic Score: 58, User Score: 68
+Source URL: http://www.rottentomatoes.com/m/stuck_in_love/
+
+Name: Sanctum, Date: 2011
+Critic Score: 30, User Score: 37
+Source URL: http://www.rottentomatoes.com/m/sanctum/
+
+Name: The East, Date: 2013
+Critic Score: 74, User Score: 65
+Source URL: http://www.rottentomatoes.com/m/the_east_2013/
+
+Name: 300: Rise of an Empire, Date: 2014
+Critic Score: 42, User Score: 53
+Source URL: http://www.rottentomatoes.com/m/300_rise_of_an_empire/
+
+Name: The Darkest Hour, Date: 2011
+Critic Score: 12, User Score: 25
+Source URL: http://www.rottentomatoes.com/m/the_darkest_hour/
+
+Name: Machine Gun Preacher, Date: 2011
+Critic Score: 29, User Score: 62
+Source URL: http://www.rottentomatoes.com/m/machine_gun_preacher/
+
+Name: Nymphomaniac: Vol. I, Date: 2013
+Critic Score: 75, User Score: 71
+Source URL: http://www.rottentomatoes.com/m/nymphomaniac_volume_i/
+
+Name: Hitchcock, Date: 2012
+Critic Score: 62, User Score: 60
+Source URL: http://www.rottentomatoes.com/m/hitchcock/
+
+Name: The Beaver, Date: 2011
+Critic Score: 61, User Score: 55
+Source URL: http://www.rottentomatoes.com/m/the_beaver_2010/
+
+Name: Hannibal, Date: 2013
+Critic Score: 39, User Score: 63
+Source URL: http://www.rottentomatoes.com/m/1104385-hannibal/
+
+Name: Under the Dome, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Under the Skin, Date: 2013
+Critic Score: 85, User Score: 54
+Source URL: http://www.rottentomatoes.com/m/under_the_skin_2013/
+
+Name: Frank, Date: 2014
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/frankenstein_2015/
+
+Name: The Following, Date: 2013
+Critic Score: 100, User Score: 51
+Source URL: http://www.rottentomatoes.com/m/the_night_of_the_following_day/
+
+Name: The Twilight Saga: Breaking Dawn - Part 2, Date: 2012
+Critic Score: 48, User Score: 70
+Source URL: http://www.rottentomatoes.com/m/the_twilight_saga_breaking_dawn_part_2/
+
+Name: Homeland, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/homeland/
+
+Name: Perfect Sense, Date: 2011
+Critic Score: 52, User Score: 59
+Source URL: http://www.rottentomatoes.com/m/perfect_sense/
+
+Name: A Walk Among the Tombstones, Date: 2014
+Critic Score: 66, User Score: 54
+Source URL: http://www.rottentomatoes.com/m/a_walk_among_the_tombstones/
+
+Name: Step Up Revolution, Date: 2012
+Critic Score: 42, User Score: 68
+Source URL: http://www.rottentomatoes.com/m/step_up_revolution/
+
+Name: St. Vincent, Date: 2014
+Critic Score: 77, User Score: 80
+Source URL: http://www.rottentomatoes.com/m/st_vincent/
+
+Name: Anna Karenina, Date: 2012
+Critic Score: 63, User Score: 50
+Source URL: http://www.rottentomatoes.com/m/anna_karenina_2012/
+
+Name: The Legend of Korra, Date: 2012
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Agents of S.H.I.E.L.D., Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Name: Trance, Date: 2013
+Critic Score: 68, User Score: 63
+Source URL: http://www.rottentomatoes.com/m/trance_2013/
+
+Name: Transcendence, Date: 2014
+Critic Score: 19, User Score: 38
+Source URL: http://www.rottentomatoes.com/m/transcendence_2014/
+
+Name: 47 Ronin, Date: 2013
+Critic Score: 15, User Score: 48
+Source URL: http://www.rottentomatoes.com/m/47_ronin/
+
+Name: Delivery Man, Date: 2013
+Critic Score: 39, User Score: 47
+Source URL: http://www.rottentomatoes.com/m/delivery_man/
+
+Name: The Great Gatsby, Date: 2013
+Critic Score: 48, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/the_great_gatsby_2013/
+
+Name: Vikings, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/tarkan-viking-kani-tarkan-and-the-blood-of-the-vikings-tarkan-versus-the-vikings/
+
+Name: Inherent Vice, Date: 2014
+Critic Score: 73, User Score: 54
+Source URL: http://www.rottentomatoes.com/m/inherent_vice/
+
+Name: Wild, Date: 2014
+Critic Score: 90, User Score: 77
+Source URL: http://www.rottentomatoes.com/m/wild_2014/
+
+Name: Jab Tak Hai Jaan, Date: 2012
+Critic Score: 89, User Score: 67
+Source URL: http://www.rottentomatoes.com/m/jab_tak_hai_jaan/
+
+Name: Warrior, Date: 2011
+Critic Score: 83, User Score: 92
+Source URL: http://www.rottentomatoes.com/m/1212910-warrior/
+
+Name: Dream House, Date: 2011
+Critic Score: 6, User Score: 36
+Source URL: http://www.rottentomatoes.com/m/dream_house_2011/
+
+Name: The Borgias, Date: 2011
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/1210734-lucrece_borgia/
+
+Name: Almost Human, Date: 2013
+Critic Score: 44, User Score: 23
+Source URL: http://www.rottentomatoes.com/m/almost_human_2012/
+
+Name: Life of Pi, Date: 2012
+Critic Score: 87, User Score: 84
+Source URL: http://www.rottentomatoes.com/m/life-of-pi/
+
+Name: Jobs, Date: 2013
+Critic Score: 27, User Score: 40
+Source URL: http://www.rottentomatoes.com/m/jobs/
+
+Name: Teen Wolf, Date: 2011
+Critic Score: 47, User Score: 52
+Source URL: http://www.rottentomatoes.com/m/teen_wolf/
+
+Name: Arbitrage, Date: 2012
+Critic Score: 87, User Score: 62
+Source URL: http://www.rottentomatoes.com/m/arbitrage/
+
+Name: Scandal, Date: 2012
+Critic Score: 91, User Score: 61
+Source URL: http://www.rottentomatoes.com/m/scandal_1989/
+
+Name: About Time, Date: 2013
+Critic Score: 69, User Score: 81
+Source URL: http://www.rottentomatoes.com/m/about_time/
+
+Name: Da Vinci's Demons, Date: 2013
+Critic Score: 0, User Score: 0
+Source URL: http://www.rottentomatoes.com/m/age_is_only_a_number_with_gary_null/
+
+Means: Action - 14, Drama - 14
+Action-Critic: 38, Action-User: 41, Drama-Critic: 51, Drama-User: 51
